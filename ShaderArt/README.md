@@ -1,15 +1,16 @@
 # Shader Art
-Building some cool shader art with OpenGL
+Building cool shader art with OpenGL
 
-# GLFW
+## Libraries
+### GLFW
 opens window on scree
 mouse and keyboad controls
 
-# GLAD
+### GLAD
 translator between my C++ code and GPUs OpenGL functions
 version 4.6 downloaded
 
-# GLM
+### GLM
 Math tools for graphics such as vectors, 3D points, camera calculations etc.
 
 
